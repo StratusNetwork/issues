@@ -1,7 +1,7 @@
 # Stratus Network Issue Tracker
 
 This is the place to report any issues you find on our servers.  
-POTENTIALLY HARMFUL ISSUES SHOULD **NOT** BE POSTED HERE. CONTACT STRATUS ADMINISTRATORS PRIVATLEY
+POTENTIALLY HARMFUL ISSUES SHOULD **NOT** BE POSTED HERE. CONTACT STRATUS ADMINISTRATORS PRIVATELY
 
 ### Contributing
 1. Create an **[Issue](https://github.com/StratusNetwork/Issues/issues)**
