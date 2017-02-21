@@ -7,7 +7,7 @@ This is the place to report any issues you find on our services. These include:
 
 POTENTIALLY HARMFUL ISSUES SHOULD **NOT** BE POSTED HERE. CONTACT STRATUS ADMINISTRATORS PRIVATELY
 
-Map issues should be posted in the **[Map Repository](https://github.com/StratusNetwork/Map-Rotations/issues)**
+MAP ISSUES SHOULD BE POSTED IN THE **[MAP REPOSITORY](https://github.com/StratusNetwork/Map-Rotations/issues)**
 
 ### Contributing
 1. Create an **[Issue](https://github.com/StratusNetwork/Issues/issues)**
