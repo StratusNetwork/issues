@@ -24,3 +24,10 @@ POTENTIALLY HARMFUL ISSUES SHOULD **NOT** BE POSTED HERE. CONTACT STRATUS ADMINI
 
 #### Web Issues
 - Create an issue in the **[Website Issue Tracker](https://github.com/StratusNetwork/web-static/issues)**
+
+#### Feature Suggestions
+1. Create an **[Issue](https://github.com/StratusNetwork/Issues/issues)**
+2. Make the title as clear and concise as possible
+3. In the description, explain what you'd like the feature to contain, as well as possible ways of adding said feature
+4. Before submitting, check that there are no duplicate issues.
+5. Do not comment on issues with statements such as "I like this" or "Please add this". **INSTEAD** use reactions, to add a 👍
