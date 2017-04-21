@@ -18,7 +18,7 @@ POTENTIALLY HARMFUL ISSUES SHOULD **NOT** BE POSTED HERE. CONTACT STRATUS ADMINI
 5. Do not comment on issues with statements such as "I like this" or "Please add this". **INSTEAD** use reactions, to add a 👍 to issues you think are important.
 
 #### Map Bugs or Issues
-- Create a separate **[Issue](https://github.com/StratusNetwork/Map-Rotations/issues)** for each bug
+- Create a separate **[Issue](https://github.com/StratusNetwork/Issues/issues)** for each bug
 - In the title, include the mapname and the issue.
 - In the description, provide video/screenshot information, or explain how to reproduce the issue
 
